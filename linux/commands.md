@@ -22,17 +22,17 @@
 # Chapter 2 notes 
 ## More Commands 
 - `ls -l` - long format 
--`ls -la` - long format + hidden files. 
--`ls-lh` - long format with human readable values.
--`ls -lt` - newest file first. 
--`ls -ld ~/aws-prep` - details of the folder itself and what's in it.
--`file` - shows the actual contents ie ASCII. 
--`less ~/(file)` - reads files safely. Using /word to search, N to jump to the next match, G goes to the start or end, Space or B goes to the next page and Q quits.
+- `ls -la` - long format + hidden files. 
+- `ls-lh` - long format with human readable values.
+- `ls -lt` - newest file first. 
+- `ls -ld ~/aws-prep` - details of the folder itself and what's in it.
+- `file` - shows the actual contents ie ASCII. 
+- `less ~/(file)` - reads files safely. Using /word to search, N to jump to the next match, G goes to the start or end, Space or B goes to the next page and Q quits.
 
 ## System Tour 
--`ls /etc` - shows configuration files.
--`less /etc/os-release` - shows the version of Linux you're on.
--`ls /var/log` - system logs. 
--`ls /home` - every user's home files.
--`ls /tmp` - temp files that are cleared on reboot.
--`ls /usr/bin` - most of the program you run.
+- `ls /etc` - shows configuration files.
+- `less /etc/os-release` - shows the version of Linux you're on.
+- `ls /var/log` - system logs. 
+- `ls /home` - every user's home files.
+- `ls /tmp` - temp files that are cleared on reboot.
+- `ls /usr/bin` - most of the program you run.
