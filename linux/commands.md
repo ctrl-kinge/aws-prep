@@ -17,6 +17,8 @@
 - Commands and arguments need space between them (`cd ~` not `cd~`).
 - Relative paths start from where I am. Absolute paths start with `/`.
 
+
+
 # Chapter 2 notes 
 ## More Commands 
 - `ls -l` - long format 
